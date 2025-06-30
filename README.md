@@ -1,5 +1,10 @@
 ##  Task 4 Firewall Configuration Report
 
+You can view the full report with step-by-step screenshots and explanations in this PDF:
+
+[View Task 4 Firewall Report](https://drive.google.com/file/d/1Jtg4F3DWHf8U5wYVe_X25khn4g5c-Ehp/view?usp=sharing)
+
+
 In this task, I worked on setting up and testing a firewall on both Kali Linux and Windows operating systems. I started by enabling the firewall on Kali using UFW, 
 which stands for Uncomplicated Firewall. It is a simple front-end for managing iptables firewall rules in Linux.
 
